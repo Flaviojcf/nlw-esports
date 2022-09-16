@@ -1,7 +1,7 @@
 # nlw-eSports
 
 <p align="center">
-  <img width="460" height="300" src="/nlw-eSports.gif" title="nlw-eSports">
+  <img width="460" height="300" src="/public/nlw-eSports.gif" title="nlw-eSports">
 </p>
 
 ## Tópicos
